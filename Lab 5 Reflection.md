@@ -1,11 +1,11 @@
 ---
 layout: post
-title: L4 Reflection
+title: L5 Reflection
 date: 2021-10-11 22:38:11 -0500
 categories: jekyll update
 author: Catherine Mariza
-image: /assests/ERD.png
-image: /assests/Schema.png
+image: /assests/Lab 5 ERD.png
+image: /assests/Lab 5 Schema.png
 ---
 This lab has been a great learning experience as I was learning about using data modelling and how to create entity relationship diagrams, as well as schemas.
 
