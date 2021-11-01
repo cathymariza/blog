@@ -7,11 +7,10 @@ author: Catherine Mariza
 image: /assests/ERD.png
 image: /assests/Schema.png
 ---
-This lab has been a great learning experience as I was learning about using `Jekyll`to create my blog posts, as well as learning about markdown language.
+This lab has been a great learning experience as I was learning about using data modelling and how to create entity relationship diagrams, as well as schemas.
 
-At first, I had a hard time un derstamnding the instructions and how to correctly copy `post.html` and `header.html` from `_layouts` and `_includes` respectively  to my repository. I was partly confused and thought that I had to download a new theme for my blog and integrate it in my repository. I spent so much time trying to learn about it, installing the right themes and incorporating them in my project.
+After reading the question(description), it didn't take me too long to figure out what the entities are and what the relationships between them are. I however had a hard time while navigating the Lucidchard website, because I had hiccups in finding where the entity templates are. I ended up figuring it out after playing around with the website for a bit.
 
-After a while, I came to office hours to get clarifications on how to do that and learnt that its doesn't require a new theme. Instead what we were tasked to do was to swap the date and title and observe how that looks in our blog.
 
 ![image tooltip here](/assets/Lab 5 ERD.png)
 ![image tooltip here](/assets/Lab 5 Schema.png)

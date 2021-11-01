@@ -12,6 +12,6 @@ I finally got it to work and started along with the tutotial. I again had a chal
 
 I spent a lot of hours learning and working on this lab but I absolutely enjoyed seeing each piece come tigvether and the way the tutorial goes into details about the explanation of each step specifically.
 
-Creating my own Razor Application was a bit of a challenge because I had to replicate a couple steps from the Tutorial and wasn't exactly sure if it was all right
+Creating my own Razor Application was a bit of a challenge because I had to replicate a couple steps from the Tutorial and wasn't exactly sure if it was all right but I repeated a few steps and finally got it to work
 
 https://cathymariza.github.io/csci340lab8

@@ -14,4 +14,4 @@ After a while, I came to office hours to get clarifications on how to do that an
 
 I also was a bit confused when it came to changing the order of the title and dates in the post.html file but I also got help from the professor and got it figured out.
 
-I'm still trying to understand the syntax of markdown and understnading how to write span tags, but I am working on it and trying to find as many explanations as I can.
+I'm still trying to understand the syntax of markdown and understnading how to write span tags, but I am working on it and trying to find as many explanations as I could find.
