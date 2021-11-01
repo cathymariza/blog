@@ -13,4 +13,5 @@ At first, I had a hard time un derstamnding the instructions and how to correctl
 
 After a while, I came to office hours to get clarifications on how to do that and learnt that its doesn't require a new theme. Instead what we were tasked to do was to swap the date and title and observe how that looks in our blog.
 
-{{ page.image }}
+![image tooltip here](/assets/Lab 5 ERD.png)
+![image tooltip here](/assets/Lab 5 Schema.png)
