@@ -13,4 +13,4 @@ After reading the question(description), it didn't take me too long to figure ou
 
 
 ![image tooltip here](/assets/Lab 5 ERD.png)
-![image tooltip here](/assets/Lab 5 Schema.png)
+![image tooltip here](https://my.vertabelo.com/model/pBNnxn9YD5ZPBDcawSjanZcUl8foosC3)
