@@ -16,8 +16,8 @@ After reading the question(description), it didn't take me too long to figure ou
 {{ page.image1 }}
 
 
-![]{{ page.image1 | relative_url }}
-![]{{ page.image2 | relative_url }}
+![]({{ page.image1 | relative_url }})
+![]({{ page.image2 | relative_url }})
 
 
 
