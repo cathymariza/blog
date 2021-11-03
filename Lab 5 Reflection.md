@@ -18,5 +18,6 @@ I also had a really hard time  when I was tryong to upload the images of my sche
 
 
 
-![image tooltip here](/assests/images/Lab5ERD.png)
-![image tooltip here](/assests/images/Lab5Schema.png)
+
+![image tooltip here]( {{site.baseurl}}/assests/images/Lab5ERD.png)
+![image tooltip here]( {{site.baseurl}}/assests/images/Lab5Schema.png)
