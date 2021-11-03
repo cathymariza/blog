@@ -4,8 +4,8 @@ title: L5 Reflection
 date: 2021-10-11 22:38:11 -0500
 categories: jekyll update
 author: Catherine Mariza
-image1: /assests/images/Lab5ERD.png
-image2: /assests/images/Lab5Schema.png
+image1: /assets/images/Lab5ERD.png
+image2: /assets/images/Lab5Schema.png
 ---
 This lab has been a great learning experience as I was learning about using data modelling and how to create entity relationship diagrams, as well as schemas.
 
@@ -16,11 +16,11 @@ The schema was as well not too hard but the tables took me some time to arrange 
 Overall, the lab was a great learning experience about Data modelling. I started doing some more digging to expand my knowledge about it, especially schemas since these are the heart of creating databases.
 
 
-![]({{ page.image1 | relative_url }})
-![]({{ page.image2 | relative_url }})
+<!-- ![]({{ page.image1 | relative_url }})
+![]({{ page.image2 | relative_url }}) -->
 
 
 
 
-![image tooltip here]( {{site.baseurl}}/assests/images/Lab5ERD.png)
-![image tooltip here]( {{site.baseurl}}/assests/images/Lab5Schema.png)
+![image tooltip here]( {{site.baseurl}}/assets/images/Lab5ERD.png)
+![image tooltip here]( {{site.baseurl}}/assets/images/Lab5Schema.png)
