@@ -4,8 +4,8 @@ title: L5 Reflection
 date: 2021-10-11 22:38:11 -0500
 categories: jekyll update
 author: Catherine Mariza
-image1: /site/assests/images/Lab5ERD.png
-image2: /site/assests/images/Lab5Schema.png
+image1: /assests/images/Lab5ERD.png
+image2: /assests/images/Lab5Schema.png
 ---
 This lab has been a great learning experience as I was learning about using data modelling and how to create entity relationship diagrams, as well as schemas.
 
@@ -13,7 +13,9 @@ After reading the question(description), it didn't take me too long to figure ou
 
 
 {{ page.image1 }}
-{{ page.image2 }}
+{{ page.image1 }}
+
+
 
 
 
