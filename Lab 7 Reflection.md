@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lab 7 Reflection
+title: Lab 7
 date: 2021-10-27 22:38:11 -0500
 categories: jekyll update
 author: Catherine Mariza

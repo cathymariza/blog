@@ -1,6 +1,6 @@
 ---
 layout: post
-title: L5 Reflection
+title: Lab 5
 date: 2021-10-11 22:38:11 -0500
 categories: jekyll update
 author: Catherine Mariza
