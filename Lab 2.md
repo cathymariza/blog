@@ -14,3 +14,5 @@ Another challenging thing I learned, but had a hard time with initially is DOM N
 I am proud of what I learned during this lab. It surely wasn't easy but next time, instead of struggling alone with something that doesn't make sense to me, I will make sure to go to office hours and ask about it.
 
 Javsascript is fun but it surely might be terrifying when someone first looks at it and sees different pieces that are involved when someone is incorporating it in their website/webpage; but once one understands it, it comes in handy.
+
+You can [click here](https://cathymariza.github.io/csci340lab2/) to see my webpage.
