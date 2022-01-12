@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lab 8 
+title: Lab 8
 date: 2021-10-27 22:38:11 -0500
 categories: jekyll update
 author: Catherine Mariza
@@ -17,7 +17,7 @@ I spent long hours learning and working on this lab but I absolutely enjoyed see
 dotnet ef migrations add InitialCreate
 dotnet ef database update`
 
-Even though I had some hiccyps, it wa all worth it and I'm happy for evrything I learnt and this really strenthened my knowledge and helped in the final project.
+Even though I had some hiccups, it wa all worth it and I'm happy for evrything I learnt and this really strenthened my knowledge and helped in the final project.
 
 
 
